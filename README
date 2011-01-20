@@ -1,0 +1,9 @@
+Introduction:
+
+iDynamicTextBox is a dynamic UITextField implementation for iOS (iPhone, iPad, iPod Touch) that performs and looks like the native sms text entry box.
+
+The concept was influenced heavily by the methods provided by Hans Pinckaers (http://www.hanspinckaers.com/multi-line-uitextview-similar-to-sms) but written to be a simpler dynamic text field with background image capability.
+
+Usage:
+
+Include the 4 class files and insert the iDynamicTextBox into your view. See the example project for details.
